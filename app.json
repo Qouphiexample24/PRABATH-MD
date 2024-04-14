@@ -26,7 +26,7 @@
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
